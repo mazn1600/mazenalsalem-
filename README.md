@@ -13,9 +13,7 @@
 
 ## 📌 Projects
 Here are some of my recent projects:
-- 🔖 [TaskNest – Task Management App](#) *(add link once uploaded)*
-- 📱 [Quran Reminder App](#)
-- 🧮 [Tasbih Counter Web App](#)
+
 
 ## 📫 How to Reach Me
 - Email: mazenawadhalsalem@gmail.com  
