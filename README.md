@@ -14,7 +14,6 @@
 ## 📌 Projects
 Here are some of my recent projects:
 
-
 ## 📫 How to Reach Me
 - Email: mazenawadhalsalem@gmail.com  
 - LinkedIn: [linkedin.com/in/mazenalsalem](https://linkedin.com/in/mazenalsalem)  
